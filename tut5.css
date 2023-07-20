@@ -1,0 +1,47 @@
+/* h1 { */
+
+
+/* text-decoration-line: overline;
+    text-decoration-line: underline;
+    text-decoration-line: line-through;
+    text-decoration-line: overline underline;
+    text-decoration-color: red;
+    text-decoration-style: double;
+    text-decoration-thickness: 5px; */
+
+
+/* text-decoration: underline red double 5px; */
+
+
+/* } */
+
+
+/* li,
+a {
+    text-decoration: none;
+} */
+
+h1 {
+    /* text-transform: uppercase;
+    text-transform: lowercase;
+    text-transform: capitalize;
+    text-indent: 50px;
+    letter-spacing: 5px;
+    line-height: 5px;
+    word-spacing: 10px;
+    white-space: nowrap;
+    color: white;
+    text-shadow: 2px 2px 5px red;
+    font-family: 'Tangerine', serif; */
+    /* font-family: 'Tangerine', serif;
+    font-size: 48px;
+    text-shadow: 4px 4px 4px #aaa;
+    font-style: italic; */
+    /* font-weight: bold; */
+    /* font: 20px Arial, sans-serif; */
+}
+
+ion-icon {
+    height: 100px;
+    width: 100px;
+}
