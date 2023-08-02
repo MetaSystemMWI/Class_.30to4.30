@@ -1,0 +1,80 @@
+/* selector {
+    decleartion property value
+}
+
+*/
+
+
+/* id, class, name */
+
+
+/* * {
+    text-align: center;
+    color: blue;
+}
+
+p,
+h1 {
+    color: red;
+} */
+
+
+/* header style */
+
+
+/* 
+#demo1,
+#demo2 {
+    background-color: green;
+}
+
+#demo {
+    background-color: black;
+}
+
+.demo {
+    text-align: center;
+} */
+
+
+/* nav bar styling */
+
+
+/* p.center {
+    text-align: center;
+} */
+
+
+/* 
+Combinator selector
+Pseudo class slector 
+pseudo element selector 
+attribute selector 
+id slector 
+class selector*/
+
+
+/*P is a Selector*/
+
+
+/* 
+RGB,
+RGBA, Red Green Blue Alpha
+HEX,
+HSL, Hue suturation lightness alpha
+        px 0-360    100%    100% 
+        0-119 red, 120-239 green, 240-360 blue
+        0% black shade of gray, 100% full color 
+        0% black 50% light or dark  100% white 
+HSLA, */
+
+p,
+h1 {
+    /* color: rgb(255, 99, 71); */
+    /* color: rgb(255, 0, 0); */
+    /* color: rgba(255, 99, 71, 0.8); */
+    /* color: #f01823; */
+    /* color: #f01; */
+    /* color: hsl(240, 100%, 50%); */
+    color: hsla(240, 100%, 50%, 0.5);
+}

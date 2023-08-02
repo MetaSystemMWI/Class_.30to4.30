@@ -1,0 +1,31 @@
+div {
+    background-color: aquamarine;
+    border: 2px solid black;
+    /* margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px; */
+    margin: 30px 30px 30px 30px;
+    /* padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px; */
+    padding: 50px 50px 50px 50px;
+    height: 200px;
+    /* width: 50%; */
+    max-width: 500px;
+    /* min-width: ;
+    min-height: ;
+    max-height: ;
+    width: ;
+    height: 1px; */
+    /* outline-style: dotted; */
+    /* dotted, dashed, solid, double, groove, ridge, inset, outset, none, hidden */
+    /* outline-color: red;
+    outline-width: 4px;
+    outline-offset: 3px; */
+    outline: dotted red 4px;
+    text-align: center;
+    direction: ltr;
+    unicode-bidi: bidi-override;
+}
